@@ -16,7 +16,7 @@ Parallelism is widely used in scientific computing, big data analysis, and machi
 
 2 . Single-Core Limitation
 
-    Inherently tied to a single processing core, limiting the speed of multiple concurrent calculations.
+   Inherently tied to a single processing core, limiting the speed of multiple concurrent calculations.
 
 # Parallel Dot Product Calculation
 
@@ -30,12 +30,12 @@ Parallelism is widely used in scientific computing, big data analysis, and machi
 
 1. Enhanced Throughput
 
-Parallel calculation amplifies computational throughput, handling complex tasks with remarkable speed.
+   Parallel calculation amplifies computational throughput, handling complex tasks with remarkable speed.
 
 2. Reduced Processing Time
 
-By spreading the calculations across multiple cores, parallelism slashes total processing time, boosting overall efficiency.
+    By spreading the calculations across multiple cores, parallelism slashes total processing time, boosting overall efficiency.
 
 3. Scalability
 
-Parallelism allows seamless scalability, accommodating an increasing workload with minimal latency and delays.
+    Parallelism allows seamless scalability, accommodating an increasing workload with minimal latency and delays.
