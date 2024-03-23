@@ -40,5 +40,5 @@ Parallelism is widely used in scientific computing, big data analysis, and machi
 
     Parallelism allows seamless scalability, accommodating an increasing workload with minimal latency and delays.
 
-# Output
+# Graph
 ![image](https://github.com/abhishekmohank/cuda_programming/assets/100741799/14c30293-52f6-4045-bc22-49b155b110c5)
