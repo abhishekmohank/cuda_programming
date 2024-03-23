@@ -34,8 +34,12 @@ Parallelism is widely used in scientific computing, big data analysis, and machi
 
 2. Reduced Processing Time
 
+# Output
+![image](https://github.com/abhishekmohank/cuda_programming/assets/100741799/14c30293-52f6-4045-bc22-49b155b110c5)
+
+
     By spreading the calculations across multiple cores, parallelism slashes total processing time, boosting overall efficiency.
 
-3. Scalability
+4. Scalability
 
     Parallelism allows seamless scalability, accommodating an increasing workload with minimal latency and delays.
